@@ -1,5 +1,5 @@
 # Business-Analysis-Case-Study
-Business Requirement Documentation 
+# Business Requirement Documentation 
 
 ![image](https://user-images.githubusercontent.com/93221488/177822437-44e60e46-2eca-4b90-92f9-8501ae29d5b4.png)
 
